@@ -7,9 +7,10 @@
 資料庫： `exchange_rate`
 ```
 
-### 資料表結構 currency_spot_usd
+### 資料表結構
 
 ```sql
+資料表結構 `currency_spot_usd`
 `_id` int(11) NOT NULL,
 `時間` datetime NOT NULL,
 `現金匯率-本行買入` float NOT NULL,
