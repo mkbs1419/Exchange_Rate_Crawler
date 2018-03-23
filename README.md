@@ -1,6 +1,6 @@
 # Exchange_Rate_Crawler
 
-### 資料表結構 currency_spot_usd
+### 資料庫資訊
 
 ```sql
 伺服器版本: 10.1.21-MariaDB
