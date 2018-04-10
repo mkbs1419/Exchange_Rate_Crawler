@@ -1,5 +1,7 @@
 # Exchange_Rate_Crawler
 
+用Python寫的匯率爬蟲，爬取目標為**臺灣銀行牌告匯率**的美金匯率，請用jupyter notebook打開
+
 ### 資料庫資訊
 
 ```sql
